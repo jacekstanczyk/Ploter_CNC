@@ -1,0 +1,1 @@
+unsigned char slnikBipolarny (unsigned char kierunek, int liczbaKrokow);
